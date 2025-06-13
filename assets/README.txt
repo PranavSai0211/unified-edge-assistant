@@ -1,0 +1,1 @@
+Download the Vosk model from https://alphacephei.com/vosk/models and place it here.
